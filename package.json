@@ -1,0 +1,26 @@
+{
+  "name": "dungenrator",
+  "version": "1.0.0",
+  "description": "Random dungeon generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Dungeon",
+    "generator"
+  ],
+  "author": "Julien LEICHER",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-eslint": "^7.1.1",
+    "eslint": "^3.15.0",
+    "eslint-config-airbnb": "^14.1.0",
+    "eslint-plugin-import": "^2.2.0",
+    "eslint-plugin-jsx-a11y": "^4.0.0",
+    "eslint-plugin-react": "^6.9.0"
+  },
+  "dependencies": {
+    "gm": "^1.23.0"
+  }
+}
