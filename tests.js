@@ -6,4 +6,4 @@ dungeon.generate();
 
 // console.log(dungeon);
 // console.log(dungeon.writeString());
-dungeon.writeImage();
+// dungeon.writeImage();
